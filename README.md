@@ -1,4 +1,4 @@
-## HI! I'm Muhammad Ayman Fahad 👋
+## Hi! I'm Muhammad Ayman Fahad 👋
 
 - 🌱 I’m currently learning Flutter and Unity
 <!--
